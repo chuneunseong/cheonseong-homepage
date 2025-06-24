@@ -1,1 +1,7 @@
-{ "name": "cheonseong-homepage", "version": "1.0.0" }
+{
+  "name": "cheonseong-homepage",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "echo Running homepage..."
+  }
+}
