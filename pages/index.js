@@ -1,0 +1,1 @@
+export default function Home() { return <h1>천성가축약품 홈페이지</h1>; }
